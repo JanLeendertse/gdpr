@@ -31,6 +31,9 @@ compute
 power and cooling → energy
 
 
+## Responsibilites of users
+
+
 
 
 ## Links to Other Websites
