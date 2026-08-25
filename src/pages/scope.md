@@ -17,3 +17,5 @@ European Galaxy Sites or "the Galaxy Service", i.e. the Services, refer to any o
 UseGalaxy Site
 
 - [https://usegalaxy-eu.github.io](https://usegalaxy-eu.github.io)
+
+"Galaxy Service" run by the European Galaxy Project is an analyzing platform. Workflows and analysis pipes can be developed and shared and transferred to sustainable repositories for archiving and publication.
